@@ -1,6 +1,6 @@
 {
   "name": "LinkedBelts_FixUpgrades",
-  "version": "0.0.3",
+  "version": "0.0.4",
   
   "title": "Linked Belts_FixUpgrades",
   "description": "Fix LinkedBelts upgrades when not using Bob's mods",
@@ -8,6 +8,6 @@
   "author": "nihilistzsche",
   "license": "GPL3",
   
-  "dependencies": ["base >= 1.1.6", "LinkedBelts", "? LinkedBelts-Extension", "? EditorExtensions"],
+  "dependencies": ["base >= 1.1.6", "LinkedBelts", "? EditorExtensions"],
   "factorio_version": "1.1"
 }

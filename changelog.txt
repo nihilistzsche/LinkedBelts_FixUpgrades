@@ -1,0 +1,6 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.4
+Date: 2023-01-25
+  Changes:
+    - Removed the LinkedBelts-Extension optional dependency, as support for Krastorio 2 belts was added to LinkedBelts proper.
+
